@@ -1,0 +1,66 @@
+{
+	"SevenWondersOfTheWorld": [{
+			"ID": "1",
+			"name": "Taj Mahal",
+			"History": "A magnificent embodiment of Shah Jahan’s deep affection for his wife, this mausoleum is one of the seven wonders of the world that features the finest architectural elements and ornate gemstone décor on ivory-white marble. Taj Mahal sits on the banks of River Yamuna and is surrounded by manicured gardens and a longitudinal fountain, both of which are picture-perfect destinations. Known to be a wondrous marvel in the moonlight, Taj Mahal attracts 8 million tourists every year.",
+			"city": "Agra",
+			"country": "India",
+			"Image": "",
+			"Time" : ""
+		},
+		{
+			"ID": "2",
+			"name": "Great Wall of China",
+			"History": "With construction history dating back to 7th century BC, the Great Wall of China stretches up to 21,196 kilometres and is an unforeseen series of fortifications built across China’s borders to mark territories. The most well-made parts of the wall are ideal for hiking through lush valleys, snow-capped mountains and a variety of other landscapes. To walk on its historic bricks that were once an ancient battle site, tourists visit its fully restored sections in Beijing and Mutianyu.",
+			"city": "Beijing",
+			"country": "China",
+			"Image": "",
+			"Time" : ""
+		},
+		{
+			"ID": "3",
+			"name": "Machu Picchu",
+			"History": "Located in Eastern Cordillera, this 15th-century citadel of the Incas was formed atop fault lines by earthquakes and is brilliant for its walls of dry stone fused with boulders without mortar. The exceptional architecture with astronomical significance displays how advanced the Incas were for their era and that is one reason why it came to be one of the seven wonders of the world. Great mystery revolves around Machu Pichu as its former use is unknown. You can climb the peaks for free to enjoy a panoramic view of the ruins and Urubamba River.",
+			"city": "Cuzco",
+			"country": "Peru",
+			"Image": "",
+			"Time" : ""
+		},
+		{
+			"ID": "4",
+			"name": "The Colosseum",
+			"History": "This 2000-year-old oval-shaped amphitheatre in the heart of Rome city is an iconic retention of Imperial Rome and its unique culture. Also known as Flavian Theatre, Colosseum has seen innumerable gladiator contests, mock sea battles, animal hunts and executions since it was built by Emperor Vespasian. Even though only a section remains today, this stone-built venue once had the capacity of over 50,000 and attracts history buffs and tourists alike.",
+			"city": "Rome",
+			"country": "Italy",
+			"Image": "",
+			"Time" : ""
+		},
+		{
+			"ID": "5",
+			"name": "Christ the Redeemer Statue",
+			"History": "Rio de Janeiro’s most famous Art Deco statue of Jesus Christ stands 38 meters tall as a colossal protector of the people and was built to commemorate the anniversary century of Brazil’s independence. It is listed as one of the seven wonders of the world for being a symbol of Christianity and showcases a detailed soapstone build. You can see the statue by train or a more challenging hike up the surrounding 700-foot-tall peak.",
+			"city": "Rio de Janeiro",
+			"country": "Brazil",
+			"Image": "",
+			"Time" : ""
+		},
+		{
+			"ID": "6",
+			"name": "Petra: A rock cut past",
+			"History": "The majestic red stone architecture and a whole city carved out of rock cuts earns Petra the name of Rose City and a place amongst the 7 wonders of the world. Known for stunning, intricate architecture and modern water channel systems, Petra houses sightseeing spots like the lengthy Siq, the Temple of Winged Lions and the Treasury. The city attracts millions of tourists from across the world for being one of the grandest man-made architectural marvels.",
+			"city": "Petra",
+			"country": "Southwest Jordon",
+			"Image": "",
+			"Time" : ""
+		},
+		{
+			"ID": "7",
+			"name": "Chichen Itza",
+			"History": "Chichen Itza, meaning “at Itza’s well’s mouth”, is the remainder of Terminal Classic, pre-Columbian period when it was built by the Mayan and Yucatan civilizations. The highlight of this archaeological site is Kukulcan Pyramid with larger pyramids built atop smaller ones. Listed as one of the seven wonders of the world, the monument has one of the most elaborate excavations of the Jaguar throne within. Temple of Warriors, El Castillo and Great Ball Court are other delightful tourist spots at Chichen Itza.",
+			"city": "Cancun",
+			"country": "Mexico",
+			"Image": "",
+			"Time" : ""
+		}
+	]
+}
